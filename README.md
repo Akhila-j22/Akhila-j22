@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juturu Akhila</h1>
+<h1 align="center">Hi 👋, I'm Akhila Juturu</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 
